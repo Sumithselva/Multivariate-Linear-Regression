@@ -39,7 +39,7 @@ print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 
 ```
 ## Output:
-![WhatsApp Image 2024-12-30 at 22 48 48_c7331d60](https://github.com/user-attachments/assets/c75925c6-2a18-476b-8474-6fd1f1b86020)
+![alt text](image-1.png)
 
 
 ### Insert your output
